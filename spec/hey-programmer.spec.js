@@ -1,4 +1,4 @@
-const greet1 = require("../000-hey-programmer/approch1")
+const greet1 = require("../src/000-hey-programmer/approch1")
 
 describe('hey programmer Approch 1', () => {
     it.each(['alvin', 'jason', 'how now brown cow'
