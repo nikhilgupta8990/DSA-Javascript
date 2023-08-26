@@ -1,4 +1,4 @@
-const isPrime = require("../src/002-is-prime/approch1")
+const isPrime = require("../src/structy/002-is-prime/approch1")
 
 describe('is the provided number Prime', () => {
     it.each([[2, true], [3, true], [4, false], [5, true], [6, false], [7, true]
