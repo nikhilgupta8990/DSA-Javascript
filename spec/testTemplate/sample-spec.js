@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'bun:test'
 const greet1 = require("./approch1")
 
 describe('hey programmer Approch 1', () => {

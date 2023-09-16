@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'bun:test'
 const greet1 = require("../src/structy/000-hey-programmer/approch1")
 
 describe('hey programmer Approch 1', () => {

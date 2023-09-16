@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'bun:test'
 const compress1 = require("../src/structy/004-compress/approch1")
 
 describe('compress approch 1', () => {

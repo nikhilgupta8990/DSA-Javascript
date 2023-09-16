@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'bun:test'
 const maxValue1 = require("../src/structy/001-max-value/approch1")
 
 describe('max Value Approch 1', () => {
